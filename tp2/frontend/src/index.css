@@ -1,0 +1,18 @@
+:root {
+  --border: #e3d5af;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Trebuchet MS', 'Segoe UI', sans-serif;
+  background: #000;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
